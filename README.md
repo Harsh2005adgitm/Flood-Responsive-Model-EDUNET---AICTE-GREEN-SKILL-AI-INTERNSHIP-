@@ -8,10 +8,6 @@ This is a very basic & simple flood prediction system that uses rainfall data an
 
 - Predicts flood risk based on input parameters
 
-## Installation
-
-1. Clone this repository
-2. Install the required packages:
 
 ## PROBLEM STATEMENT
 
