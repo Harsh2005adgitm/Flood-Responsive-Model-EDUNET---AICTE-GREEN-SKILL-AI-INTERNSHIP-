@@ -7,7 +7,6 @@ This is a very basic & simple flood prediction system that uses rainfall data an
 ## Features
 
 - Predicts flood risk based on input parameters
-- Displays model accuracy and prediction probabilities
 
 ## Installation
 
