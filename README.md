@@ -1,13 +1,12 @@
 # Flood-Responsive-Model-EDUNET---AICTE-GREEN-SKILL-AI-INTERNSHIP-
 
-# Basic Flood Prediction System for India
+# Basic Flood Prediction System
 
-This is a simple flood prediction system that uses rainfall data and other factors to predict flood risk in Indian cities.
+This is a very basic & simple flood prediction system that uses rainfall data and other factors to predict flood risk.
 
 ## Features
 
-- Predicts flood risk (low, medium, high) based on input parameters
-- Visualizes the relationship between rainfall and flood risk
+- Predicts flood risk based on input parameters
 - Displays model accuracy and prediction probabilities
 
 ## Installation
