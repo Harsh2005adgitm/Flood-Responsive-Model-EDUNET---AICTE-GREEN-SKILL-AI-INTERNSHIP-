@@ -10,7 +10,7 @@ This is a very basic & simple flood prediction system that uses rainfall data an
 
 **PPT - FLOOD PREDICTION MODEL (edunet - AICTE GREENSKILL AI INTERNSHIP)**  ⟶ PPT [Presentation]  
 
-**FLOOD PREDICTION Model [100% - Week 3]**  ⟶  jupytor [.ipynb] This is the juipyter file which contains DATA PREPROCESSING, EDA, DATA VISUALIZATION, FEATURE SELECTION, MODEL TRAINING and USER INPUT for predicting flood.    
+**FLOOD PREDICTION Model [100% - Week 3]**  ⟶  jupyter [.ipynb] This is the juipyter file which contains DATA PREPROCESSING, EDA, DATA VISUALIZATION, FEATURE SELECTION, MODEL TRAINING and USER INPUT for predicting flood.    
 
 **app.py**  ⟶ python [.py] This is the DEPLOYED MODEL.
 
