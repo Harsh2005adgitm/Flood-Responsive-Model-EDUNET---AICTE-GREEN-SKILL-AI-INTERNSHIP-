@@ -6,9 +6,9 @@ This is a very basic & simple flood prediction system that uses rainfall data an
 
 ## About Files
 
-flood_data_with_missing  ⟶ CSV file [DATASET]
-PPT - FLOOD PREDICTION MODEL (edunet - AICTE GREENSKILL AI INTERNSHIP)  ⟶ PPT [Presentation]
-FLOOD PREDICTION Model [100% - Week 3]  ⟶  jupytor [.ipynb] 
+flood_data_with_missing  ⟶ CSV file [DATASET]  
+PPT - FLOOD PREDICTION MODEL (edunet - AICTE GREENSKILL AI INTERNSHIP)  ⟶ PPT [Presentation]  
+FLOOD PREDICTION Model [100% - Week 3]  ⟶  jupytor [.ipynb]   
 app.py  ⟶ python [.py] 
 
 
