@@ -2,11 +2,14 @@
 
 # Basic Flood Prediction System
 
-This is a very basic & simple flood prediction system that uses rainfall data and other factors to predict flood risk.
+This is a very basic & simple flood prediction system that uses rainfall data and other factors to predict flood risk based on input parameters.
 
-## Features
+## About Files
 
-- Predicts flood risk based on input parameters
+flood_data_with_missing  ⟶ CSV file [DATASET]
+PPT - FLOOD PREDICTION MODEL (edunet - AICTE GREENSKILL AI INTERNSHIP)  ⟶ PPT [Presentation]
+FLOOD PREDICTION Model [100% - Week 3]  ⟶  jupytor [.ipynb] 
+app.py  ⟶ python [.py] 
 
 
 ## PROBLEM STATEMENT
