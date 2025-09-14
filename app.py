@@ -27,9 +27,11 @@ st.write("Predict whether an area will flood based on Rainfall, River level, and
 
 
 
-rainfall = st.number_input("🌧️ Rainfall (mm)", min_value=0.0, max_value=400.0, step=1.0)
-river = st.number_input("🌊 River Level (m)", min_value=0.0, max_value=100.0, step=0.1)
-soil = st.number_input("🌱 Soil Moisture (%)", min_value=0.0, max_value=100.0, step=1.0)
+rainfall = float(st.text_input("🌧️ Rainfall (mm)", "0"))
+river = float(st.text_input("🌊 River Level (m)", "0"))
+soil = float(st.text_input("🌱 Soil Moisture (%)", "0"))
+
+
 
 if st.button("Predict Flood"):
     input_data = pd.DataFrame([[rainfall, river, soil]], 
@@ -40,3 +42,16 @@ if st.button("Predict Flood"):
         st.error("⚠️ Flood is likely to be happen in this area!")
     else:
         st.success("✅ No Flood Predicted.")
+
+
+
+st.markdown(
+    """
+    <style>
+    .stApp {
+        background-color: #379094;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
