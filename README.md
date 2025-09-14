@@ -12,7 +12,7 @@ This is a very basic & simple flood prediction system that uses rainfall data an
 
 **FLOOD PREDICTION Model [100% - Week 3]**  ⟶  jupyter [.ipynb] This is the juipyter file which contains DATA PREPROCESSING, EDA, DATA VISUALIZATION, FEATURE SELECTION, MODEL TRAINING and USER INPUT for predicting flood.    
 
-**app.py**  ⟶ python [.py] This is the DEPLOYED MODEL.
+**app.py**  ⟶ python [.py] This is the DEPLOYED MODEL with UI.
 
 
 ## PROBLEM STATEMENT
